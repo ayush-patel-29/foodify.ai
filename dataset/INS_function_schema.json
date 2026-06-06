@@ -1,0 +1,16 @@
+{
+  "name": "lookup_food_additive",
+  "description": "Lookup food additive by INS code or additive name",
+  "parameters": {
+    "type": "object",
+    "properties": {
+      "query": {
+        "type": "string",
+        "description": "INS code or additive name"
+      }
+    },
+    "required": [
+      "query"
+    ]
+  }
+}
