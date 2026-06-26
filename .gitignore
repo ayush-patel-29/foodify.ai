@@ -8,3 +8,6 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Jupyter Notebook checkpoints
+foodify.ai.ocr.ipynb
